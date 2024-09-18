@@ -3,7 +3,7 @@
 Este proyecto es un microservicio en Spring Boot que recibe una cadena y devuelve información sobre si es un palíndromo, su longitud, y la cantidad de caracteres especiales.
 
 ## Requisitos
-- Java 11
+- Java 17
 - Maven
 
 ## Instrucciones para ejecutar
