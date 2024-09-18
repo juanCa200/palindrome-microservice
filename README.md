@@ -14,3 +14,5 @@ Este proyecto es un microservicio en Spring Boot que recibe una cadena y devuelv
    {
      "palindromo":"anita lava la tina"
    }
+
+Nota : Descargar Puglins de lombok en IntelliJ IDEA
